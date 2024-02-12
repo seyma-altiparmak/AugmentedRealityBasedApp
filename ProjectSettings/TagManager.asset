@@ -4,10 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - cat
-  - mask
-  - monocle
-  - modelObject
+  - BackgroundCamera
   layers:
   - Default
   - TransparentFX
@@ -15,7 +12,21 @@ TagManager:
   - 
   - Water
   - UI
-  - PP
+  - InteractableObjects
+  - Floor
+  - NavMesh
+  - BackgroundImage
+  - DistantHotspot
+  - 
+  - 
+  - Character
+  - CharacterOutline
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ItemRendering
   - 
   - 
   - 
@@ -24,22 +35,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - InteractiveObject
+  - InteractiveOutlined
   - 
   m_SortingLayers:
   - name: Default

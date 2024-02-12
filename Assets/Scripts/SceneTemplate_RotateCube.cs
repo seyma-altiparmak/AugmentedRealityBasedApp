@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SceneTemplate_RotateCube : MonoBehaviour
+public class RotateCube : MonoBehaviour
 {
     [SerializeField] GameObject myCube;
     [SerializeField] float rotationSpeed;
